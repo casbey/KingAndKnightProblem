@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingAndKnightProblemIJKRYI", "KingAndKnightProblemIJKRYI.csproj", "{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KingAndKnightGUI", "..\KingAndKnightGUI\KingAndKnightGUI.csproj", "{CA2FB53F-CF07-46F1-885F-0E05E4DB0331}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2FB53F-CF07-46F1-885F-0E05E4DB0331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2FB53F-CF07-46F1-885F-0E05E4DB0331}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2FB53F-CF07-46F1-885F-0E05E4DB0331}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2FB53F-CF07-46F1-885F-0E05E4DB0331}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A18BE704-17BF-4258-9BCE-1F8AAD83B925}
+	EndGlobalSection
+EndGlobal
