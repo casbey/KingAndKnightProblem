@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZŐ\\4. félév\\Mesterséges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightProblemIJKRYI.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZŐ\\4. félév\\Mesterséges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightProblemIJKRYI.csproj",
       "projectName": "KingAndKnightProblemIJKRYI",
-      "projectPath": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZŐ\\4. félév\\Mesterséges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightProblemIJKRYI.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZŐ\\4. félév\\Mesterséges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightProblemIJKRYI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZŐ\\4. félév\\Mesterséges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZŐ\\4. félév\\Mesterséges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

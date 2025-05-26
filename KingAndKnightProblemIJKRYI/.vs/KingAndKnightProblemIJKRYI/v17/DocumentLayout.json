@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\ai_kingandknight\\kingandknightproblemijkryi\\kingandknightastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\kingandknight\\kingandknightproblem\\kingandknightproblemijkryi\\kingandknightastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:kingandknightastar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\ai_kingandknight\\kingandknightproblemijkryi\\kingandknightbreadthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:kingandknightbreadthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\kingandknight\\kingandknightproblem\\kingandknightproblemijkryi\\trialanderrorwithrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:trialanderrorwithrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\ai_kingandknight\\kingandknightproblemijkryi\\kingandknightdepthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:kingandknightdepthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\kingandknight\\kingandknightproblem\\kingandknightproblemijkryi\\simpletrialanderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:simpletrialanderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\ai_kingandknight\\kingandknightproblemijkryi\\kingandknightbacktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:kingandknightbacktrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\ai_kingandknight\\kingandknightproblemijkryi\\baseofgraphsearchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:baseofgraphsearchalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\ai_kingandknight\\kingandknightproblemijkryi\\kingandknightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\kingandknight\\kingandknightproblem\\kingandknightproblemijkryi\\kingandknightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:kingandknightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\ai_kingandknight\\kingandknightproblemijkryi\\kingandknightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:kingandknightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\kingandknight\\kingandknightproblem\\kingandknightproblemijkryi\\kingandknightbreadthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:kingandknightbreadthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|c:\\users\\user\\desktop\\sulis cuccok\\programtervez\u0151\\4. f\u00E9l\u00E9v\\mesters\u00E9ges intelligencia\\kingandknight\\kingandknightproblem\\kingandknightproblemijkryi\\kingandknightdepthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E137C8FA-397C-492C-AE2B-56E31EEC3FAD}|KingAndKnightProblemIJKRYI.csproj|solutionrelative:kingandknightdepthfirst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,86 +44,79 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "KingAndKnightAStar.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightAStar.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightAStar.cs",
               "RelativeDocumentMoniker": "KingAndKnightAStar.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightAStar.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightAStar.cs",
               "RelativeToolTip": "KingAndKnightAStar.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:33:23.968Z",
+              "WhenOpened": "2025-05-20T01:35:23.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrialAndErrorWithRestart.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\TrialAndErrorWithRestart.cs",
+              "RelativeDocumentMoniker": "TrialAndErrorWithRestart.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\TrialAndErrorWithRestart.cs",
+              "RelativeToolTip": "TrialAndErrorWithRestart.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:32:57.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "KingAndKnightDepthFirst.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightDepthFirst.cs",
-              "RelativeDocumentMoniker": "KingAndKnightDepthFirst.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightDepthFirst.cs",
-              "RelativeToolTip": "KingAndKnightDepthFirst.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwBwAAAAxAAAAAAAAAA==",
+              "Title": "SimpleTrialAndError.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\SimpleTrialAndError.cs",
+              "RelativeDocumentMoniker": "SimpleTrialAndError.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\SimpleTrialAndError.cs",
+              "RelativeToolTip": "SimpleTrialAndError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:32:19.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "KingAndKnightBreadthFirst.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightBreadthFirst.cs",
-              "RelativeDocumentMoniker": "KingAndKnightBreadthFirst.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightBreadthFirst.cs",
-              "RelativeToolTip": "KingAndKnightBreadthFirst.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:30:28.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseOfGraphSearchAlgorithms.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\BaseOfGraphSearchAlgorithms.cs",
-              "RelativeDocumentMoniker": "BaseOfGraphSearchAlgorithms.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\BaseOfGraphSearchAlgorithms.cs",
-              "RelativeToolTip": "BaseOfGraphSearchAlgorithms.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T13:42:37.088Z"
+              "WhenOpened": "2025-05-20T01:31:54.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "KingAndKnightBackTrack.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightBackTrack.cs",
-              "RelativeDocumentMoniker": "KingAndKnightBackTrack.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightBackTrack.cs",
-              "RelativeToolTip": "KingAndKnightBackTrack.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAABIAAAAAAAAAA==",
+              "Title": "KingAndKnightNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightNode.cs",
+              "RelativeDocumentMoniker": "KingAndKnightNode.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightNode.cs",
+              "RelativeToolTip": "KingAndKnightNode.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:28:32.049Z"
+              "WhenOpened": "2025-05-20T01:31:47.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KingAndKnightBreadthFirst.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightBreadthFirst.cs",
+              "RelativeDocumentMoniker": "KingAndKnightBreadthFirst.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightBreadthFirst.cs",
+              "RelativeToolTip": "KingAndKnightBreadthFirst.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:27:39.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "KingAndKnightNode.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightNode.cs",
-              "RelativeDocumentMoniker": "KingAndKnightNode.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightNode.cs",
-              "RelativeToolTip": "KingAndKnightNode.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADcAAAAfAAAAAAAAAA==",
+              "Title": "KingAndKnightDepthFirst.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightDepthFirst.cs",
+              "RelativeDocumentMoniker": "KingAndKnightDepthFirst.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightDepthFirst.cs",
+              "RelativeToolTip": "KingAndKnightDepthFirst.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:25:49.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "KingAndKnightState.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightState.cs",
-              "RelativeDocumentMoniker": "KingAndKnightState.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\AI_KingAndKnight\\KingAndKnightProblemIJKRYI\\KingAndKnightState.cs",
-              "RelativeToolTip": "KingAndKnightState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:15:53.964Z"
+              "WhenOpened": "2025-05-19T14:32:19.76Z",
+              "EditorCaption": ""
             }
           ]
         }
