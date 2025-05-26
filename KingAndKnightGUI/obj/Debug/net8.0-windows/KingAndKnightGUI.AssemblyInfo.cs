@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KingAndKnightGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e4ea437e3231fe988ad76b59e010382c1cc8a34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf87974e460feb44f570474b90cbfae04a3efb42")]
 [assembly: System.Reflection.AssemblyProductAttribute("KingAndKnightGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KingAndKnightGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

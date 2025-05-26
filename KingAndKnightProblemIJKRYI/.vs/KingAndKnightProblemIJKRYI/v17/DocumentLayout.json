@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "KingAndKnightAStar.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\SULIS CUCCOK\\PROGRAMTERVEZ\u0150\\4. f\u00E9l\u00E9v\\Mesters\u00E9ges intelligencia\\KingAndKnight\\KingAndKnightProblem\\KingAndKnightProblemIJKRYI\\KingAndKnightAStar.cs",
               "RelativeToolTip": "KingAndKnightAStar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T01:35:23.485Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "TrialAndErrorWithRestart.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:32:57.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T01:32:57.375Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "SimpleTrialAndError.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:31:54.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T01:31:54.283Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "KingAndKnightNode.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:31:47.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T01:31:47.838Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "KingAndKnightBreadthFirst.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wCEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:27:39.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T01:27:39.622Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "KingAndKnightDepthFirst.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:32:19.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T14:32:19.76Z"
             }
           ]
         }
